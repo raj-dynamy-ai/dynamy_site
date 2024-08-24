@@ -1,0 +1,21 @@
+baseURL = 'https://dynamy-ai.github.io/'
+languageCode = 'en-us'
+title = 'Dynamy.Ai'
+theme="hugo-PaperMod"
+
+
+
+[params]
+defaultTheme = "dark"
+disableThemeToggle = "true"  
+
+
+[params.profileMode]
+enabled = "true"
+title = "Creating long lasting effeciencies using AI"
+imageUrl= "logo.png"
+imageWidth= 75
+imageHeight= 50
+[[params.profileMode.buttons]]
+name = "Posts"
+url = "/posts"

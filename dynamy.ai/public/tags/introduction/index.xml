@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Introduction on Dynamy.Ai</title>
+    <link>http://localhost:1313/tags/introduction/</link>
+    <description>Recent content in Introduction on Dynamy.Ai</description>
+    <generator>Hugo -- 0.133.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Aug 2024 12:41:46 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/introduction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>http://localhost:1313/posts/introduction/</link>
+      <pubDate>Fri, 23 Aug 2024 12:41:46 -0400</pubDate>
+      <guid>http://localhost:1313/posts/introduction/</guid>
+      <description>Is all about creating
+Long lasting operational effeciencies using AI.
+Providing innovative solutions to complex business problems using the following:
+Machine Learning Data Analysis Data Engineering The team @ Dynamy.Ai has extensive analytics experience in the below categories:
+Financial Services Investment Banking Retail consumer industry Small Business industry Corporate industry Enterprise and Credit risk modelling </description>
+    </item>
+  </channel>
+</rss>
