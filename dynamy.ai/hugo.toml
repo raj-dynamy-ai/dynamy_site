@@ -13,7 +13,7 @@ disableThemeToggle = "true"
 [params.profileMode]
 enabled = "true"
 title = "Creating long lasting effeciencies using AI"
-imageUrl= "logo.png"
+imageUrl= "/images/logo.png"
 imageWidth= 75
 imageHeight= 50
 [[params.profileMode.buttons]]
